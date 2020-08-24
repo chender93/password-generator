@@ -1,7 +1,7 @@
 # Password Generator
 ## Objective
 I was tasked with creating an application for a webpage where the user could create a secure password. I was provided with the index, CSS, and js file, but needed to include the JavaScript codes to ensure the webpage would display a random code.
-
+![Image of Expected Site Screenshot](https://github.com/chender93/password-generator/blob/master/passwordgenexample.png)
 ## Approach
 I started with pseudocoding in the JS file. I wanted to make sure I had a clear mental picture of what I wanted to do. After pseudocoding, I started creating variables and prompts that would walk the end-user through the process of creating a password. They were given 4 criteria they could include in their generated password. They were required to choose at least one.
 
